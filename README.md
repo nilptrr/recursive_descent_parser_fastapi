@@ -1,4 +1,4 @@
-# Сервис-калькулятор на FastAPI
+# Recursive descent parser implementation
 
 Тестовое задание.
 
